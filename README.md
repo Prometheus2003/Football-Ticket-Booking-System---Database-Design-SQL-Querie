@@ -252,7 +252,7 @@ Submit the following items via your assignment submission portal:
 | --- | --- |
 | **60 Marks** | June 15, 2026 at 11:59 PM |
 | **50 Marks** | June 16, 2026 at 11:59 PM |
-| **30 Marks** | June 17 to June 30, 2026 at 11:59 PM |
+| **30 Marks** | June 17 to July 7, 2026 at 11:59 PM |
 
 ⚠️ **Academic Integrity Policy:** Plagiarism will not be tolerated. All submissions must represent your own original work. Any instance of copied code or design templates will result in **0 Marks** and may trigger further academic review. Submissions are subject to verification via automated code similarity tracking tools and an oral defense if deemed necessary.
 
